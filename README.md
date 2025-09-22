@@ -145,4 +145,4 @@ AI tool to draft engaging LinkedIn posts
 
 ---
 
-⭐️ *"Passionate about building, analyzing & scaling impactful solutions with technology."*
+⭐️ *"Passionate about building, analyzing & scaling impactful solutions with technology."* 
