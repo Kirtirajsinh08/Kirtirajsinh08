@@ -53,7 +53,7 @@
 
 ---
 
-## 📌 Featured Projects  
+## 📌 Some of my Featured Projects  
 
 ### 🔹 [Smart Resume Analyser](https://github.com/Kirtirajsinh08/Resume_Analyser)  
 AI-powered resume screening tool using NLP & cosine similarity  
@@ -96,27 +96,6 @@ AI tool to draft engaging LinkedIn posts
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" width="20" style="background-color:white; padding:2px; border-radius:3px"/> [Google AI Essentials](https://www.coursera.org/account/accomplishments/verify/DHCUNY3QS9G5)  
  
----
-
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kirtirajsinh08&show_icons=true&theme=radical" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirtirajsinh08&layout=compact&theme=radical" alt="Top languages" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kirtirajsinh08&theme=radical" alt="GitHub Streak" height="160"/>
-</p>
-
----
-
-## 🔥 Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kirtirajsinh08&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F8D847&area=true&hide_border=true" alt="Contribution Graph" />
-</p
-
 ---
 
 ## 🤝 Let’s Connect  
