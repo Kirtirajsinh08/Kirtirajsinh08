@@ -46,7 +46,7 @@
 
 - **Languages**: 🐍 Python | ⚡ JavaScript | ⌨️ TypeScript | 🗃️ SQL  
 - **Databases**: 🍃 MongoDB | 🐘 PostgreSQL | 💾 MySQL  
-- **Web**: 🌐 React.js | ⚙️ Node.js | 🚀 Express.js | 🎨 Tailwind CSS | Flask 🧪 | Streamlit 💨  
+- **Web**: 🌐 React.js | ⚙️ Node.js | 🚀 Express.js | 🎨 Tailwind CSS | 🧪 Flask  | 💨 Streamlit   
 - **Data Science / AI**: 🧠 Pandas | 🔢 NumPy | 🤖 Scikit-learn | 🔬 TensorFlow | 🗣️ NLP | 🖼️ CNN | 📈 Power BI | 📊 Excel  
 - **Generative AI / LLMs**: 🤖 OpenAI API | 📝 Prompt Engineering | 🕸️ LangChain | 🗣️ Text Generation | 💡 RAG  
 - **Tools**: 🛠️ Git | 🖥️ VS Code | 📬 Postman | 📓 Jupyter Notebook | 📂 GitHub | 🏆 Kaggle
