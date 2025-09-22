@@ -50,6 +50,7 @@
 - **Data Science / AI**: 🧠 Pandas | 🔢 NumPy | 🤖 Scikit-learn | 🔬 TensorFlow | 🗣️ NLP | 🖼️ CNN | 📈 Power BI | 📊 Excel  
 - **Generative AI / LLMs**: 🤖 OpenAI API | 📝 Prompt Engineering | 🕸️ LangChain | 🗣️ Text Generation | 💡 RAG  
 - **Tools**: 🛠️ Git | 🖥️ VS Code | 📬 Postman | 📓 Jupyter Notebook | 📂 GitHub | 🏆 Kaggle
+- **Soft Skills**: 🧩 Problem Solving | 🎤 Public Speaking | 🤝 Team Work | 🦸‍♂️ Leadership | 📋 Project Management | 📊 Presentation | 📚 Active Learner
 
 ---
 
