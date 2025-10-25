@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kirtirajsinh Parmar  
 
-🎓 Final-year **Computer Science Engineering** student | 💻 MERN Stack Developer | 📊 Data Analyst | 🧠 Data Scientist / AI-ML Enthusiast  
+🎓 Final-year **Computer Science Engineering** student | 📊 Data Analyst | 🧠 Data Scientist / AI-ML Enthusiast  | 💻 MERN Stack Developer 
 
 ---
 
