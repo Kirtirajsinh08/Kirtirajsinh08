@@ -29,7 +29,7 @@
 <td width="60%">
 
 - 🛠 Currently working on **AI, Data Analytics & Full Stack Development projects**  
-- 🌱 Exploring **Large Language Models (LLMs), Deep Learning, NLP & Computer Vision**  
+- 🌱 Exploring **Deep Learning, NLP & Computer Vision**  
 - 🎯 Goal: Solve **real-world business challenges** with data-driven solutions  
 - 🤝 Open to collaborations in **Full Stack, Data Science & AI/ML**  
 
